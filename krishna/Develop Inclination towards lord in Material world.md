@@ -6,7 +6,7 @@ Tags: [[Architecture of Material world]]
 
 # Material life
 
-Because of their uncontrolled senses, persons too addicted to materialistic life make progress toward hellish conditions and repeatedly chew that which has already been chewed. Their inclinations toward Kṛṣṇa are never aroused, either by the instructions of others, by their own efforts, or by a combination of both.
+**Because of their uncontrolled senses, persons too addicted to materialistic life make progress toward hellish conditions and repeatedly chew that which has already been chewed. Their inclinations toward Kṛṣṇa are never aroused, either by the instructions of others, by their own efforts, or by a combination of both.**
 
 Note that Prahlad highlights inclination towards Krishna has to be aroused by 
 - By the instructions of others

@@ -2,7 +2,7 @@
 
 Status:
 
-Tags: [[Is God partial or impartial]]
+Tags: [[Nature of Demons]]
 
 # Who are called demons in Vedic culture
 

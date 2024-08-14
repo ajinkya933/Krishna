@@ -8,7 +8,7 @@ Tags: [[Architecture of Material world]]
 
 **In this material world, every materialist desires to achieve happiness and diminish his distress, and therefore he acts accordingly. Actually, however, one is happy as long as one does not endeavor for happiness; as soon as one begins his activities for happiness, his conditions of distress begin.****
 
-The pursuit for happiness is considered as fundamental right in many modern day countries, however one may understand from above statement that, as soon as one begins his pursuit for happiness his condition of distress begins. Even though such person suffers great distress to achieve material happiness, the happiness he gets is rather extremely short lived and is again followed by distress.
+The pursuit for happiness is considered as fundamental right in many modern day countries, however one may understand from above statement that, as soon as one begins his pursuit for happiness. His condition of distress begins. Even though such person suffers great distress to achieve material happiness, the happiness he gets is rather extremely short lived and is again followed by distress.
 
 Happiness is achieved
 - Automatically without any effort according to ones past fruitive activities.

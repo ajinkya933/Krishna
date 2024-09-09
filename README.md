@@ -15,5 +15,6 @@ How to read these notes:
 
 Result:
 Here is one example of how a chapter looks like in Obsidian:
-![image](https://github.com/user-attachments/assets/24070d52-d3fd-4bcc-a5c2-3d6fbe88c43c)
+![image](https://github.com/user-attachments/assets/090c5d8e-e0e6-4917-a02f-2dacacb3a67d)
+
 

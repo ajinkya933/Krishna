@@ -11,7 +11,7 @@ Tags: [[False worshipers]]
 In todays world we see many places where people do:
 - Charity to satisfy the lord
 - Austerity and sacrifice to satisfy the lord
-- The remain clean and take vows to satisfy the lord
+- They remain clean and take vows to satisfy the lord
 - Change their profession and become saint or brahman to satisfy the lord
 
 Usually these people are very proud to claim that we did this for the lord, we did that for the lord, we built all these structures for the lord. 

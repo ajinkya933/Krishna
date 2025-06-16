@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "2e2e69997552cd74",
+    "type": "split",
+    "children": [
+      {
+        "id": "43fb37c81c5df5c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1e530238637b71c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Develop Inclination towards lord in Material world.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Develop Inclination towards lord in Material world"
+            }
+          },
+          {
+            "id": "c880b0822fa37946",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "When enemy is powerful than you.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "When enemy is powerful than you"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7892e28bb98041bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "70750ee01603504a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cb986ba67a6ba83",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "19685aa5bf72434b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "928f0c9ec632aa8f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "74ee4a4b1b0b72d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d09ad79a31ac397",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fffa512a74d2116",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tags/False worshipers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for False worshipers"
+            }
+          },
+          {
+            "id": "47c6397dad9ae106",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tags/False worshipers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from False worshipers"
+            }
+          },
+          {
+            "id": "c80bc66f53451d82",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d3d2bb10d9113a64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tags/False worshipers.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of False worshipers"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c880b0822fa37946",
+  "lastOpenFiles": [
+    "Tags/Strategy against enemies.md",
+    "When enemy is powerful than you.md",
+    "Enemy strong than oneself.md",
+    "Develop Inclination towards lord in Material world.md",
+    "Pursuit of happiness.md",
+    "Tags/Fearlessness.md",
+    "Tags/False worshipers.md",
+    "Tags/Architecture of Spiritual world.md",
+    "Tags/Architecture of Material world.md",
+    "Tags/Nature of Gods.md",
+    "Does God need our prayers.md",
+    "Governance of the material world.md",
+    "Welcome.md"
+  ]
+}

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "When enemy is powerful than you.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "When enemy is powerful than you"
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "996c46070a431c13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tags/Strategy against enemies.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Strategy against enemies"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,12 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tags/False worshipers.md",
+                "file": "Tags/Strategy against enemies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from False worshipers"
+              "title": "Outgoing links from Strategy against enemies"
             }
           },
           {
@@ -191,8 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,20 +227,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c880b0822fa37946",
+  "active": "996c46070a431c13",
   "lastOpenFiles": [
+    "Tags/Nature of Gods.md",
+    "Tags/Nature of Demons.md",
     "Tags/Strategy against enemies.md",
     "When enemy is powerful than you.md",
-    "Enemy strong than oneself.md",
+    "Declaring a Truce with the enemy.md",
     "Develop Inclination towards lord in Material world.md",
+    "Welcome.md",
+    "Who are demons.md",
+    "Symptoms of demons.md",
+    "Templates/Full Note.md",
+    "Enemy strong than oneself.md",
     "Pursuit of happiness.md",
     "Tags/Fearlessness.md",
     "Tags/False worshipers.md",
     "Tags/Architecture of Spiritual world.md",
     "Tags/Architecture of Material world.md",
-    "Tags/Nature of Gods.md",
     "Does God need our prayers.md",
-    "Governance of the material world.md",
-    "Welcome.md"
+    "Governance of the material world.md"
   ]
 }

@@ -22,11 +22,11 @@ Such enemies are immature in nature and are engaged only in their own self-inter
 
 ## Strategy
 
-We should attack the enemies as per the strategy given in scriptures. Scriptures say there are three outcomes as follows:
+Without confrontation its not possible to know weather one is capable of winning. We should attack the enemies as per the strategy given in scriptures. Scriptures say there are three outcomes as follows:
 
 ### Success
 - A task succeeds when the strategy is good and there are no obstacles.
-- Attacking the opponents vulnerabilities and hiding ones own vulnerabilities gives victory
+	- Attacking the opponents vulnerabilities and hiding ones own vulnerabilities gives victory
 - Do not accept honors from your enemy
 - Do not disregard strengths of your enemy, there are men who have more strength than you.
 - If the opponent has become weak, the fight should be ended quickly.
@@ -37,6 +37,7 @@ We should attack the enemies as per the strategy given in scriptures. Scriptures
 ### Defeat
 - If you step in a battle without any strategy. You will meet a crushing defeat.
 - Disregarding your enemies strength leads to a certain defeat. 
+- Inaction due to having doubts about ones own capability results in defeat
 
 
 ### Reference

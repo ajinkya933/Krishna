@@ -26,6 +26,10 @@ And eventually as samudramanthan progressed the lord took Mohini avatar and help
 
 ### Learnings from samudramanthan scripture :
 
+Situation :  When time is on side of your enemy 
+
+Principal : Use these strategy principals when the  time is on side of your enemy  :
+
 - As long as you are not flourishing, you should make a truce with the demons and asuras, who are now being favored by time.
 	- During this truce whatever the demons ask, agree to their proposal.
 	- Do not get agitated by demons asks.

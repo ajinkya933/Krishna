@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags/Strategy against enemies.md",
+                "file": "Declaring a Truce with the enemy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Strategy against enemies"
+              "title": "Declaring a Truce with the enemy"
+            }
+          },
+          {
+            "id": "3d88486c9cdeaf3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "When enemy is powerful than you.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "When enemy is powerful than you"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -172,12 +196,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tags/Strategy against enemies.md",
+                "file": "When enemy is powerful than you.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Strategy against enemies"
+              "title": "Outgoing links from When enemy is powerful than you"
             }
           },
           {
@@ -219,6 +243,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -227,10 +252,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "996c46070a431c13",
+  "active": "3d88486c9cdeaf3b",
   "lastOpenFiles": [
-    "When enemy is powerful than you.md",
     "Tags/Strategy against enemies.md",
+    "Tags/Architecture of Material world.md",
+    "When enemy is powerful than you.md",
     "Declaring a Truce with the enemy.md",
     "Tags/Nature of Gods.md",
     "Tags/Nature of Demons.md",
@@ -244,7 +270,6 @@
     "Tags/Fearlessness.md",
     "Tags/False worshipers.md",
     "Tags/Architecture of Spiritual world.md",
-    "Tags/Architecture of Material world.md",
     "Does God need our prayers.md",
     "Governance of the material world.md"
   ]

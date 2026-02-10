@@ -27,6 +27,8 @@ Conclusion: Don't let your wife feel alone. You should please your wife's heart.
 
 To do this you will yourself have to face discomfort :  Once Satyabhama (Krishna's wife) expressed her desire to Krishna to bring a celestial tree from Indra and place it in her garden. Even though there was no logical need for Satyabhama of that tree.But, Krishna did not argue logically with satyabhama, when she raised an absurd ask of bringing indras tree just because she wanted it. Krishna went and  fought with indra just to bring celestial parijata tree to satyabhama and pleased her heart.
 
+Remember this is all about how I should act when placed in a situation. Its never about how others should act, or should have acted. We should never preach others on how they should behave NEVER. We should let God make that judgement, we are no one to judge someone else's behaviour. Doing this lifts the heavy weight from our head and we can only focus on our actions in a situation, and not on why other people are behaving that way
+
 Satyabhamas chapter also gives a core look into nature of women, and how Krishna dealt with this nature 
 
 

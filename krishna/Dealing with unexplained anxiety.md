@@ -21,7 +21,8 @@ for example :
 Now this interaction is the source of your anxiety. Now this being said we found out what was the source of this feeling.
 
 ### Nature of feelings
-Krishna says feelings by nature are transitory. They have a beginning and an end. This even applies to Anxiety which is a feeling. So there will be anxiety we cannot push it outside using our will power. But the Truth is its nature is transotory so after sometime it will lower its impact and pass away. Till it passes away we have to tolerate it, there is no medication for that.
+Krishna says feelings by nature are transitory. They have a beginning and an end. This even applies to Anxiety which is a feeling. So there will be anxiety we cannot push it outside using our will power. But the Truth is its nature is transotory so after sometime it will lower its impact and pass away. Till it passes away we have to tolerate it.
 
+Knowing this dosent give much releif because still the person thinks he acted in a way which is now causing him anxiety, his actions caused this anxiety.
 
-
+We have to understand some very important roles at play here in chapter 3 verse 5 

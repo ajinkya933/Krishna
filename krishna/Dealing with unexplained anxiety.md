@@ -4,9 +4,8 @@ We need to dwell deeper as this question is a very serious one. We know one thin
 
 2.14 verse goes like this:
 
-```
 O sun of Kunti, the contact of the senses with their objects generates feeling of heat and cold, happiness and misery. They are transitory, having beginning and an end. Therefore, O descendant of Bharata, tolerate them.
-```
+
 
 ### Source of feeling of Anxiety:
 
